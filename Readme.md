@@ -52,5 +52,4 @@ Crea un archivo `.env` en la raíz del proyecto con tus credenciales y configura
 PORT=3000
 EMAIL_USER=tu_correo@gmail.com
 EMAIL_PASS=tu_contraseña
-EMAIL_SERVICE=gmail
 ```
